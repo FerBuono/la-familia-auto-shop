@@ -733,7 +733,7 @@ h3 {
       top: 0;
       width: 100%;
       height: 100%;
-      background-image: url(/images/viñetas/fibrablanca.jpg);
+      background-image: url(images/viñetas/fibrablanca.jpg);
       background-size: contain;
       background-repeat: repeat;
       border-radius: 10px;
@@ -786,23 +786,23 @@ h3 {
     .grilla-productos__item--item1:hover img {
       height: 80px; }
     .grilla-productos__item--item1:hover::before {
-      background-image: url(/images/db11.webp); }
+      background-image: url(images/db11.webp); }
     .grilla-productos__item--item2:hover::before {
-      background-image: url(/images/chiron.webp); }
+      background-image: url(images/chiron.webp); }
     .grilla-productos__item--item3:hover::before {
-      background-image: url(/images/laferrari.webp); }
+      background-image: url(images/laferrari.webp); }
     .grilla-productos__item--item4:hover::before {
-      background-image: url(/images/regera.webp); }
+      background-image: url(images/regera.webp); }
     .grilla-productos__item--item5:hover .grilla-productos__item__nombre {
       padding: none; }
     .grilla-productos__item--item5:hover::before {
-      background-image: url(/images/aventadorsvj.webp); }
+      background-image: url(images/aventadorsvj.webp); }
     .grilla-productos__item--item6:hover::before {
-      background-image: url(/images/mclarenp1.webp); }
+      background-image: url(images/mclarenp1.webp); }
     .grilla-productos__item--item7:hover::before {
-      background-image: url(/images/zonda.webp); }
+      background-image: url(images/zonda.webp); }
     .grilla-productos__item--item8:hover::before {
-      background-image: url(/images/911.webp); }
+      background-image: url(images/911.webp); }
 
 @keyframes nombre {
   from {
@@ -897,25 +897,25 @@ h3 {
   margin: 1rem; }
 
 .equipo1 .foto {
-  background-image: url(/images/equipo/toretto.jpg);
+  background-image: url(images/equipo/toretto.jpg);
   background-repeat: no-repeat;
   background-position: center -5px;
   background-size: cover; }
 
 .equipo2 .foto {
-  background-image: url(/images/equipo/letty.jpg);
+  background-image: url(images/equipo/letty.jpg);
   background-repeat: no-repeat;
   background-position: center -5px;
   background-size: cover; }
 
 .equipo3 .foto {
-  background-image: url(/images/equipo/brian.jpg);
+  background-image: url(images/equipo/brian.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover; }
 
 .equipo4 .foto {
-  background-image: url(/images/equipo/mia.jpg);
+  background-image: url(images/equipo/mia.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover; }

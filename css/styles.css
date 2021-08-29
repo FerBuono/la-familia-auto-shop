@@ -1169,7 +1169,7 @@ h3{
     top: 0;
     width: 100%;
     height: 100%;
-    background-image: url(/images/viñetas/fibrablanca.jpg);
+    background-image: url(images/viñetas/fibrablanca.jpg);
     background-size: contain;
     background-repeat:repeat;
     border-radius: 10px;
@@ -1263,7 +1263,7 @@ h3{
 
 .grid-item1:hover::before {
     position: absolute;
-    background-image: url(/images/db11.webp);
+    background-image: url(images/db11.webp);
     background-position: center;
     background-size: cover;
     filter: brightness(.6);
@@ -1273,7 +1273,7 @@ h3{
 
 .grid-item2:hover::before {
     position: absolute;
-    background-image: url(/images/chiron.webp);
+    background-image: url(images/chiron.webp);
     background-position: center;
     background-size: cover;
     filter: brightness(.6);
@@ -1284,7 +1284,7 @@ h3{
 
 .grid-item3:hover::before {
     position: absolute;
-    background-image: url(/images/laferrari.webp);
+    background-image: url(images/laferrari.webp);
     background-position: center;
     background-size: cover;
     filter: brightness(.6);
@@ -1293,7 +1293,7 @@ h3{
 
 .grid-item4:hover::before {
     position: absolute;
-    background-image: url(/images/regera.webp);
+    background-image: url(images/regera.webp);
     background-position: center;
     background-size: cover;
     filter: brightness(.6);
@@ -1302,7 +1302,7 @@ h3{
 
 .grid-item5:hover::before {
     position: absolute;
-    background-image: url(/images/aventadorsvj.webp);
+    background-image: url(images/aventadorsvj.webp);
     background-position: center;
     background-size: cover;
     filter: brightness(.6);
@@ -1311,7 +1311,7 @@ h3{
 
 .grid-item6:hover::before {
     position: absolute;
-    background-image: url(/images/mclarenp1.webp);
+    background-image: url(images/mclarenp1.webp);
     background-position: center;
     background-size: cover;
     filter: brightness(.6);
@@ -1320,7 +1320,7 @@ h3{
 
 .grid-item7:hover::before {
     position: absolute;
-    background-image: url(/images/zonda.webp);
+    background-image: url(images/zonda.webp);
     background-position: center;
     background-size: cover;
     filter: brightness(.6);
@@ -1329,7 +1329,7 @@ h3{
 
 .grid-item8:hover::before {
     position: absolute;
-    background-image: url(/images/911.webp);
+    background-image: url(images/911.webp);
     background-position: center;
     background-size: cover;
     filter: brightness(.6);
@@ -1444,28 +1444,28 @@ h3{
 }
 
 .equipo1 .foto {
-    background-image: url(/images/equipo/toretto.jpg);
+    background-image: url(images/equipo/toretto.jpg);
     background-repeat: no-repeat;
     background-position: center -5px;
     background-size: cover;
 }
 
 .equipo2 .foto {
-    background-image: url(/images/equipo/letty.jpg);
+    background-image: url(images/equipo/letty.jpg);
     background-repeat: no-repeat;
     background-position: center -5px;
     background-size: cover;
 }
 
 .equipo3 .foto {
-    background-image: url(/images/equipo/brian.jpg);
+    background-image: url(images/equipo/brian.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .equipo4 .foto {
-    background-image: url(/images/equipo/mia.jpg);
+    background-image: url(images/equipo/mia.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

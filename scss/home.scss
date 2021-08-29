@@ -352,7 +352,7 @@
             top: 0;
             width: 100%;
             height: 100%;
-            background-image: url(/images/viñetas/fibrablanca.jpg);
+            background-image: url(../images/viñetas/fibrablanca.jpg);
             background-size: contain;
             background-repeat:repeat;
             border-radius: 10px;
@@ -543,7 +543,7 @@
     &--bio1 {
 
         .bio__foto {
-            background-image: url(/images/equipo/toretto.jpg);
+            background-image: url(../images/equipo/toretto.jpg);
             background-position: center -5px;
         }
     }
@@ -551,7 +551,7 @@
     &--bio2 {
 
         .bio__foto {
-            background-image: url(/images/equipo/letty.jpg);
+            background-image: url(../images/equipo/letty.jpg);
             background-position: center -5px;
         }
     }
@@ -559,7 +559,7 @@
     &--bio3 {
 
         .bio__foto {
-            background-image: url(/images/equipo/brian.jpg);
+            background-image: url(../images/equipo/brian.jpg);
             background-position: center;
         }
     }
@@ -567,7 +567,7 @@
     &--bio4 {
 
         .bio__foto {
-            background-image: url(/images/equipo/mia.jpg);
+            background-image: url(../images/equipo/mia.jpg);
             background-position: center;
         }
     }
