@@ -22,7 +22,7 @@ My very first project, created for the Web Developer course of the CouderHouse's
 
 The web is fully responsive. 
 
-The pages were created with HTML, SASSS was used for pages styling and a minor code was created with JavaScirpt to give dynamism to the header.
+The pages were created with HTML, SASS was used for pages styling and a minor code was created with JavaScirpt to give dynamism to the header.
 
 Bootstrap was also implemented particularly for the main page carousel. 
 
